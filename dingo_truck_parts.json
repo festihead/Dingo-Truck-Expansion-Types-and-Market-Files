@@ -1,0 +1,81 @@
+ 
+    {
+    "m_Version": 12,
+    "DisplayName": "Dingo Truck Parts",
+    "Icon": "Deliver",
+    "Color": "FBFCFEFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+    {
+    "ClassName": "DingoDoors_Driver",
+    "MaxPriceThreshold": 1000,
+    "MinPriceThreshold": 500,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 10,
+    "MinStockThreshold": 1,
+    "SpawnAttachments": [],
+    "Variants": []
+    },
+    {
+    "ClassName": "DingoDoors_CoDriver",
+    "MaxPriceThreshold": 1000,
+    "MinPriceThreshold": 500,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": []
+    },
+    {
+    "ClassName": "DingoDoors_Cargo1",
+    "MaxPriceThreshold": 1000,
+    "MinPriceThreshold": 500,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": []
+    },
+    {
+    "ClassName": "DingoDoors_Cargo2",
+    "MaxPriceThreshold": 1000,
+    "MinPriceThreshold": 500,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": []
+    },
+    {
+    "ClassName": "DingoHood",
+    "MaxPriceThreshold": 1000,
+    "MinPriceThreshold": 500,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": []
+    },
+    {
+    "ClassName": "DingoTrunk",
+    "MaxPriceThreshold": 1000,
+    "MinPriceThreshold": 500,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": []
+    },
+    {
+    "ClassName": "DingoWheel",
+    "MaxPriceThreshold": 1000,
+    "MinPriceThreshold": 500,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "Variants": []
+    }
+    ]
+    }

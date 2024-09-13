@@ -1,0 +1,36 @@
+{
+    "m_Version": 12,
+    "DisplayName": "dingo_truck",
+    "Icon": "Deliver",
+    "Color": "FFFFFF",
+    "IsExchange": 0,
+    "InitStockPercent": 75,
+    "Items": [
+    {
+    "ClassName": "Dingo",
+    "MaxPriceThreshold": 250000,
+    "MinPriceThreshold": 125000,
+    "SellPricePercent": -1,
+    "MaxStockThreshold": 1,
+    "MinStockThreshold": 1,
+    "QuantityPercent": -1,
+    "SpawnAttachments": [
+    "DingoDoors_Driver",
+    "DingoDoors_CoDriver",
+    "DingoDoors_Cargo1",
+    "DingoDoors_Cargo2",
+    "DingoHood",
+    "DingoTrunk",
+    "DingoWheel",
+    "DingoWheel",
+    "DingoWheel",
+    "DingoWheel",
+    "DingoWheel",
+    "CarBattery",
+    "CarRadiator",
+    "SparkPlug"
+    ],
+    "Variants": []
+    }
+    ]
+    }
